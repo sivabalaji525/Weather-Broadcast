@@ -1,4 +1,4 @@
-
+#Weather_Broadcast, IP address finder, Location finder, Device name finder.
 import requests, json
 import socket 
 hostname=socket.gethostname()  
